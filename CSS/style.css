@@ -54,3 +54,21 @@ h1, h2, h3 {
     padding: 25px;
 }
 
+#more-experiences {
+    display: none;
+}
+
+#toggle-experiences {
+    background-color: rgb(66, 121, 134); /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
