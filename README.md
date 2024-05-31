@@ -1,12 +1,17 @@
 # Curriculo-HTML
 Construção de Currículo em HTML proposto no curso de Desenvolvedor Full Stack, da Escola DNC.
 
+<div align="center">
+
 ![image](https://github.com/matheus-psd/Curriculo-HTML/assets/169220207/6e94d04b-5871-4685-97b2-512a817c0135)
 <br><br>
 
 ![image](https://github.com/matheus-psd/Curriculo-HTML/assets/169220207/8a39b782-a035-4608-9799-02af45e79121)
 
 ![image](https://github.com/matheus-psd/Curriculo-HTML/assets/169220207/1060d15c-6662-44de-849d-2409b006d44e)
+  
+![image](https://github.com/matheus-psd/Curriculo-HTML/assets/169220207/138d2ef6-6caf-48dd-b4dc-eb588f360966)
+</div>
 
 <h2>Tecnologias utilizadas:</h2>
 <img src="https://skillicons.dev/icons?i=html,css" style="max-width: 100%;"><br>
